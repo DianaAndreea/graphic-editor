@@ -1,1 +1,1 @@
-# graphic-editor
+This is a graphic editor, which is using a canvas . You choose a shape that you want from the buttons ( square or circle ) and after clicking the button, you click in the canvas, where it will be draw the chosen shape. Also, you can delete shapes with a simple click on "Sterge" and then select the wanted shape.
